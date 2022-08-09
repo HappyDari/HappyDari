@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="400" height="200"/>
 </div>
 
 ### :woman_technologist: About Me :
