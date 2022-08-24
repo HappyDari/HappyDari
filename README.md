@@ -1,10 +1,7 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="400" height="200"/>
-</div>
 
 ### :woman_technologist: About Me :
 
-I am a Junior Data Scientist from Russia. :raising_hand_woman:
+I am a Junior Data Scientist from Russia.
 
 - 👩‍🎓 I am 22 years old, I recently graduated from the university with a degree in Sociology
 
@@ -34,8 +31,8 @@ I am a Junior Data Scientist from Russia. :raising_hand_woman:
 
 ---
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/p3Q9QUhvp3Y3gV3e28/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="300" height="150"/>
 </div>
 
 <div id="badges" align="center">
