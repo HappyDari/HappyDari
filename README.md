@@ -13,7 +13,7 @@ I am a Junior Data Scientist from Russia.
 
 - 🦊 I devote all my free time to learning new things in IT, and also taking care of a pet
 
-- 📫  How to reach me: [![Telegram bage](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](t-do.ru/happy_db) or mail happy130th@gmail.com
+- 📫  How to reach me: WhatsApp +79136115424 or mail happy130th@gmail.com
 
 ---
 
@@ -35,10 +35,7 @@ I am a Junior Data Scientist from Russia.
   <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="300" height="150"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://vk.com/away.php?utf=1&to=https%3A%2F%2Finstagram.com%2Fschastlivaya_dari%3Figshid%3DYmMyMTA2M2Y%3D">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white"/>
-  </a>  
+<div align="center">
   <a href="t-do.ru/happy_db">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
   </a>
