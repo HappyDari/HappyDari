@@ -9,6 +9,8 @@ I am a Junior Data Scientist from Russia.
 
 - 🖱️ During the training, I made a lot of projects, you can see some of them in the profile
 
+- 📖 I take courses in probability theory and algorithms on Stepik, Leetcode, Яндекс.Контест
+
 - 💵 I worked in various companies, compiled reports, worked in the 1C system, used MS Office
 
 - 🦊 I devote all my free time to learning new things in IT, and also taking care of a pet
