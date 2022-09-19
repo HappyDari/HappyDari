@@ -3,17 +3,17 @@
 
 I am a Junior Data Scientist from Russia.
 
-- 👩‍🎓 I am 22 years old, I recently graduated from the university with a degree in Sociology
+- I am 22 years old, I recently graduated from the university with a degree in Sociology
 
 - 💻 Now I am finishing my education in Big data analytics in Yandex.Practicum
 
-- 🖱️ During the training, I made a lot of projects, you can see some of them in the profile
+- During the training, I made a lot of projects, you can see some of them in the profile
 
 - 📖 I take courses in probability theory and algorithms on Stepik, Leetcode, Яндекс.Контест
 
-- 💵 I worked in various companies, compiled reports, worked in the 1C system, used MS Office
+- I worked in various companies, compiled reports, worked in the 1C system, used MS Office
 
-- 🦊 I devote all my free time to learning new things in IT, and also taking care of a pet
+- I devote all my free time to learning new things in IT, and also taking care of a pet  :fox_face:
 
 - 📫  How to reach me: WhatsApp +79136115424 or mail happy130th@gmail.com
 
@@ -34,7 +34,7 @@ I am a Junior Data Scientist from Russia.
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="300" height="150"/>
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="150" height="75"/>
 </div>
 
 <div align="center">
