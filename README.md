@@ -38,7 +38,7 @@ I am a Junior Data Scientist from Russia.
 </div>
 
 <div align="center">
-  <a href="t-do.ru/happy_db">
+  <a href="https://t.me/happy_db">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"/>
   </a>
   
