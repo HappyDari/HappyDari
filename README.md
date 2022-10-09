@@ -7,7 +7,7 @@ I am a Junior Data Scientist from Russia.
 
 - 💻 Now I am finishing my education in Big data analytics in Yandex.Practicum
 
-- During the training, I made a lot of projects, you can see some of them in the profile
+- During the training, I made a lot of projects, you can see some of them in repositories
 
 - 📖 I take courses in probability theory and algorithms on Stepik, Leetcode, Яндекс.Контест
 
