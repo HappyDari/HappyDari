@@ -5,7 +5,7 @@ I am a Data Scientist from Russia.
 
 - 🌐 Now I work as an econometrician in a leading media investment company 
 
-- I am 22 years old, recently graduated from the university with a degree in Sociology
+- Recently graduated from the university with a degree in Sociology
 
 - 💻 I completed Data Science courses in Yandex.Practicum
 
