@@ -22,6 +22,7 @@ I am a Data Scientist from Russia.
 ### 🛠️ Languages and Tools:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3OuZXoTU9jZI4DE8BbdFwS319F3-wFxS1lyNsjyZ&s" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
 <img src="https://p.kindpng.com/picc/s/147-1473754_transformers-logo-black-transformers-logo-hd-png-download.png" title="Transformers" alt="Transformers" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
